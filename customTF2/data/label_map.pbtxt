@@ -1,0 +1,20 @@
+item {
+    name: "down",
+    id: 1,
+    display_name: "down"
+}
+item {
+    name: "left",
+    id: 2,
+    display_name: "left"
+}
+item {
+    name: "right",
+    id: 3,
+    display_name: "right"
+}
+item {
+    name: "up",
+    id: 4,
+    display_name: "up"
+}
