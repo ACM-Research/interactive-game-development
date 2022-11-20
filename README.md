@@ -1,7 +1,7 @@
 # Interactive-Game-Development-using-Machine-Learning-Models
 
 ## Poster
-< insert poster here >
+![Poster](https://user-images.githubusercontent.com/33157393/202885887-bad7d12f-5526-4e0a-a086-3ac6cb55596c.png)
 
 ## Introduction
 Machine learning techniques are becoming increasingly popular in the field of human-computer interaction. With this in mind, participants will program their own version of the web-based video game "Slither.io" but controlled using hand gestures through a computer webcam, rather than a keyboard like the original game. To achieve this, they will design and train a deep neural network that translates the position of the gamer's hand into game controls.
