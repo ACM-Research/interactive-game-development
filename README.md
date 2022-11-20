@@ -31,3 +31,5 @@ TBD
 ## Game Creation
 The game being used was based off of the Snake game 
 ## Contributors: Aarian Ahsan, Abiola Alalade, Kayla Baker, Naveen Mukkatt, Aaron Jacob
+## Team Lead: Sisira Aarukapalli
+## Adviosr: Dr. Ranran Feng
