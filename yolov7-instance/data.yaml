@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['down', 'left', 'right', 'up']
+
+roboflow:
+  workspace: acm-hands
+  project: hand-game-controls
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/acm-hands/hand-game-controls/dataset/10
