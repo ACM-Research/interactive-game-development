@@ -15,7 +15,7 @@ Training the AI to recognize hand gestures required creation of a dataset consis
 In total, there were approximately 1,200 images taken, consisting of approximately 300 images per direction.
 
 ## Model
-We primarily used the TensorFlow 2.0 Object Detection API to train models. We prioritized speed in our model instances, since the final product would end up processing live input and translating it to game controls. Games require very low input lag, on the order of milliseconds, so a very accurate but slow model fell out of favor as opposed to a generally accurate but fast model. We used SSDMobileNetv2 and YOLOv7, which are excellent at fast object detection. 
+We primarily used the TensorFlow 2 Object Detection API to train models. We prioritized speed in our model instances, since the final product would end up processing live input and translating it to game controls. Games require very low input lag, on the order of milliseconds, so a very accurate but slow model fell out of favor as opposed to a generally accurate but fast model. We used SSDMobileNetv2 and YOLOv7, which are excellent at fast object detection. 
 
 ## Training
 The model was trained on Google Colaboratory, since it provided a Python environment with usable GPUs for training. 
